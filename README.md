@@ -1,7 +1,5 @@
 # Bank-Complaint-Analysis-using-NLP
 
-# **Bank Complaint Analysis Using NLP**
-
 ## **Project Overview**
 This project focuses on analyzing customer complaints for a leading bank using Natural Language Processing (NLP) techniques. By leveraging text data, sentiment analysis, and machine learning models, the project aims to improve customer satisfaction and streamline complaint resolution.
 
